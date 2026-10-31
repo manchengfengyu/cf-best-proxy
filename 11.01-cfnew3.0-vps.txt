@@ -13,15 +13,3 @@
 179.255.137.189#🇺🇸 (CMIN2) Los Angeles 13
 179.253.225.53#🇺🇸 (CMIN2) Los Angeles 14
 64.186.227.159#🇺🇸 (CMIN2) Los Angeles 15
-131.143.182.213#🇺🇸 (CMIN2) Los Angeles 16
-179.255.141.22#🇺🇸 (CMIN2) Los Angeles 17
-179.253.247.192#🇺🇸 (CMIN2) Los Angeles 18
-91.216.169.78#🇺🇸 (CMIN2) Los Angeles 19
-179.253.243.205#🇺🇸 (CMIN2) Los Angeles 20
-179.253.247.208#🇺🇸 (CMIN2) Los Angeles 21
-69.63.209.127#🇺🇸 (CMIN2) Los Angeles 22
-64.186.224.79#🇺🇸 (CMIN2) Los Angeles 23
-64.186.225.81#🇺🇸 (CMIN2) Los Angeles 24
-154.21.95.97#🇺🇸 (CMIN2) Los Angeles 25
-64.186.226.11#🇺🇸 (CMIN2) Los Angeles 26
-154.17.237.131#🇺🇸 (CMIN2) Los Angeles 27
