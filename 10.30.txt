@@ -1,16 +1,10 @@
-﻿45.78.28.90#🇭🇰 (CMIN2) Hong Kong 1
-65.49.236.30#🇯🇵 (CMIN2) Tokyo 4
-65.49.237.84#🇯🇵 (CMIN2) Tokyo 5
-192.69.93.223#🇺🇸 (CMIN2) Los Angeles 9
-216.24.177.10#🇺🇸 (CMIN2) Los Angeles 10
-74.211.103.200#🇺🇸 (CMIN2) Los Angeles 11
-64.64.239.215#🇺🇸 (CMIN2) Los Angeles 12
-216.24.184.56#🇺🇸 (CMIN2) Los Angeles 13
-192.69.93.44#🇺🇸 (CMIN2) Los Angeles 14
-80.251.216.188#🇺🇸 (CMIN2) Los Angeles 15
-
-
-
-
-
-
+﻿45.78.28.90#🇭🇰 (CMIN2) 搬
+65.49.236.30#🇯🇵 (CMIN2) Tokyo 1搬
+65.49.237.84#🇯🇵 (CMIN2) Tokyo 2搬
+192.69.93.223#🇺🇸 (CMIN2) Los Angeles1搬
+216.24.177.10#🇺🇸 (CMIN2) Los Angeles 2搬
+74.211.103.200#🇺🇸 (CMIN2) Los Angeles 3搬
+64.64.239.215#🇺🇸 (CMIN2) Los Angeles 4搬
+216.24.184.56#🇺🇸 (CMIN2) Los Angeles 5搬
+192.69.93.44#🇺🇸 (CMIN2) Los Angeles 6搬
+80.251.216.188#🇺🇸 (CMIN2) Los Angeles 7搬
