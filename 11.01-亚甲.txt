@@ -1,0 +1,29 @@
+﻿132.145.122.153:443#JP-NRT-Oracle Corporation
+140.245.45.56:443#SG-SIN-Oracle Corporation
+15.152.62.130:443#JP-KIX-Amazon.com, Inc.
+134.185.84.175:443#SG-SIN-Oracle Corporation
+146.235.22.161:443#SG-SIN-Oracle Corporation
+134.185.83.89:443#SG-SIN-Oracle Corporation
+217.142.226.241:443#JP-KIX-Oracle Corporation
+18.162.228.199:443#HK-HKG-Amazon.com, Inc.
+57.181.30.154:443#JP-NRT-Amazon.com, Inc.
+13.250.70.157:443#SG-SIN-Amazon.com, Inc.
+140.245.45.233:443#SG-SIN-Oracle Corporation
+3.112.174.105:443#JP-NRT-Amazon.com, Inc.
+52.74.137.25:443#SG-SIN-Amazon.com, Inc.
+13.158.86.236#JP	Tokyo	11.0MB/s	84.0ms	CMIN2
+54.238.196.51#JP	Tokyo	5.1MB/s	88.2ms	CMIN2
+150.230.210.96#JP	Tokyo	4.4MB/s	89.0ms	Unknown
+140.238.49.222#JP	Tokyo	4.2MB/s	86.8ms	CMI
+140.83.48.48#JP	Osaka	4.0MB/s	105.8ms	Unknown
+134.185.85.155#SG	Kampong Loyang	5.1MB/s	69.2ms	Unknown
+138.2.108.213#SG	Kampong Loyang	5.0MB/s	70.0ms	Unknown
+213.35.105.58#SG	Kampong Loyang	5.0MB/s	70.2ms	Unknown
+161.118.206.69#SG	Kampong Loyang	3.2MB/s	67.0ms	Unknown
+140.245.98.95#SG	Kampong Loyang	2.0MB/s	209.8ms	Unknown
+140.245.44.94#SG	Singapore	1.6MB/s	66.2ms	CMI
+52.37.57.47#US	Boardman	4.1MB/s	189.8ms	CMIN2
+34.211.160.190#US	Boardman	3.9MB/s	192.8ms	CMIN2
+18.118.142.212#US	Columbus	1.8MB/s	227.8ms	CMIN2
+18.144.101.247#US	San Jose	1.6MB/s	195.2ms	CMIN2
+
