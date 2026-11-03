@@ -15,13 +15,6 @@
 157.245.56.32:443#25号SG-DigitalOcean, LLC
 158.178.224.158:8443#25号SG-Oracle Corporation
 159.223.88.166:443#25号SG-DigitalOcean, LLC
-104.17.210.222#25号B站🇭🇰 Hong Kong 1官
-172.64.147.55#25号B站🇭🇰 Hong Kong 2官
-104.19.153.184#25号B站🇭🇰 Hong Kong 3官
-104.17.127.212#25号B站🇭🇰 Hong Kong 4官
-104.17.109.114#25号B站🇭🇰 Hong Kong 5官
-104.26.15.134#25号B站🇺🇸 Seattle 2官
-104.18.4.112#25号B站🇺🇸 Seattle 3官
 95.182.95.41#25号B站HK-CM1
 206.237.27.219#25号B站HK-CMIN2
 172.105.121.230#25号B站🇸🇬 (CMIN2) Singapore 
