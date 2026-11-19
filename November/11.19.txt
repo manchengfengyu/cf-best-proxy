@@ -1,0 +1,33 @@
+43.170.38.62:443#19号-🇸🇬（hk）-cmin2-SIN-ACE
+139.180.187.152:443#19号-🇸🇬（hk）-cmin2-SIN-The Constant Company, LLC
+178.128.82.93:443#19号-🇸🇬（hk）-cmin2-SIN-DO
+159.223.71.229:443#19号-🇸🇬-SIN-DO
+139.162.5.34:443#19号-🇸🇬（hk）-cmin2-SIN-Linode
+139.180.145.3:443#19号-🇸🇬（hk）-cmi-SIN-The Constant Company, LLC
+172.236.139.181:443#19号-🇸🇬（hk）-cmin2-SIN-Linode
+138.2.66.236:443#19号-🇸🇬-SIN-Oracle
+178.128.118.19:443#19号-🇸🇬-SIN-DO
+143.198.203.199:443#19号-🇸🇬-SIN-DO
+172.236.132.46:443#19号-🇸🇬-cmin2-SIN-Linode
+139.162.70.21:443#19号-🇯🇵-cmin2-NRT-Linode
+45.92.159.141:443#19号-🇯🇵-NRT-xTom Japan Corporation
+168.138.52.221:443#19号-🇯🇵-KIX-Oracle
+172.234.89.153:443#19号-🇯🇵（hk）-cmin2-KIX-Linode
+43.170.78.62:443#19号-🇺🇸-cmin2-LAX-ACE
+166.88.33.113:443#19号-🇺🇸-cmin2-LAX-CNServer LLC
+45.63.56.34:443#19号-🇺🇸（jp）-cmin2-LAX-The Constant Company, LLC
+66.132.239.126:443#19号-🇺🇸（jp）-cmin2-LAX-FiberState, LLC
+66.42.99.221:443#19号-🇺🇸（jp）-cmin2-LAX-The Constant Company, LLC
+45.32.65.235:443#19号-🇺🇸（jp）-cmin2-LAX-The Constant Company, LLC
+45.77.127.64:443#19号-🇺🇸（jp）-cmin2-LAX-The Constant Company, LLC
+144.202.123.69:443#19号-🇺🇸（jp）-cmin2-LAX-The Constant Company, LLC
+149.248.5.85:443#19号-🇺🇸（jp）-cmin2-LAX-The Constant Company, LLC
+188.255.157.136:443#19号-🇺🇸-cmin2-LAX-CNServer LLC
+144.225.6.25:443#19号-🇺🇸-cmin2-MCI-CNServer LLC
+179.255.99.100:443#19号-🇺🇸-cmin2-LAX-DMIT
+172.235.38.203:443#19号-🇺🇸-cmin2-LAX-Linode
+179.253.241.115:443#19号-🇺🇸-cmin2-LAX-DMIT
+5.253.38.190:443#19号-🇺🇸-cmin2-LAX-CNServer LLC
+205.186.76.237:443#19号-🇺🇸-cmin2-LAX-FDCservers.net
+161.33.15.101:443#19号-🇯🇵（hk）-cmi-KIX-Oracle
+172.237.6.18:443#19号-🇯🇵-cmin2-NRT-Linode
