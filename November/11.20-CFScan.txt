@@ -1,0 +1,28 @@
+140.235.98.199:443#HKG-HK-DMIT Cloud Services
+43.159.4.43:443#HKG-HK-Tencent Building, Kejizhongyi Avenue
+140.235.98.162:443#HKG-HK-DMIT Cloud Services
+161.118.208.138:443#SIN-SG-Oracle Corporation
+143.198.209.123:443#SIN-SG-DigitalOcean, LLC
+167.172.68.31:443#SIN-SG-DigitalOcean, LLC
+213.35.104.187:8443#SIN-SG-Oracle Corporation
+82.22.31.122:443#HKG-HK-DATAWAVE GLOBAL LLC
+138.2.66.236:443#SIN-SG-Oracle Corporation
+138.2.110.111:443#SIN-SG-Oracle Corporation
+82.27.11.135:8443#HKG-HK-ByteVirt LLC
+149.118.40.65:443#SIN-SG-Oracle Corporation
+172.104.57.237:443#SIN-SG-Akamai Connected Cloud
+45.136.15.170:8443#HKG-HK-LUCIDACLOUD LIMITED
+161.118.239.121:443#SIN-SG-Oracle Corporation
+61.222.202.153:443#TPE-TW-Data Communication Business Group
+139.162.26.8:443#SIN-SG-Akamai Connected Cloud
+159.223.33.4:443#SIN-SG-DigitalOcean, LLC
+143.198.90.188:443#SIN-SG-DigitalOcean, LLC
+165.245.184.76:443#SIN-SG-DigitalOcean, LLC
+168.144.32.180:443#SIN-SG-DigitalOcean, LLC
+38.180.189.21:443#HKG-HK-M247 Europe SRL
+152.42.174.66:443#SIN-SG-DigitalOcean, LLC
+139.162.18.18:443#SIN-SG-Akamai Connected Cloud
+172.104.185.40:443#SIN-SG-Akamai Connected Cloud
+139.162.40.240:443#SIN-SG-Akamai Connected Cloud
+139.162.41.109:443#SIN-SG-Akamai Connected Cloud
+172.236.132.46:443#SIN-SG-Akamai Connected Cloud
